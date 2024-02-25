@@ -2,7 +2,7 @@
 
 Welcome to the Sudoku Solver repository!
 
-![Image Description](image_url)
+![Image Description](project-3.png)
 
 ## Overview
 This repository hosts a Sudoku Solver tool, designed to solve Sudoku puzzles of varying difficulty levels. Whether you're a Sudoku enthusiast looking for a quick solution or a developer interested in understanding how Sudoku-solving algorithms work, this tool is here to assist you.
